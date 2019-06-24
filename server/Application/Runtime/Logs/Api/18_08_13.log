@@ -1,0 +1,1164 @@
+[ 2018-08-13T17:00:30+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.007274s ]
+INFO: [ app_init ] --END-- [ RunTime:0.097546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028679s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:1.9433s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '' LIMIT 1   [ RunTime:0.1607s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 62 AND `password` = 'd41d8cd98f00b204e9800998ecf8427e' LIMIT 1   [ RunTime:0.0444s ]
+
+[ 2018-08-13T17:00:32+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1472s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '' LIMIT 1   [ RunTime:0.0091s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 62 AND `password` = 'd41d8cd98f00b204e9800998ecf8427e' LIMIT 1   [ RunTime:0.0132s ]
+
+[ 2018-08-13T17:00:35+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1231s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '' LIMIT 1   [ RunTime:0.0260s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 62 AND `password` = 'd41d8cd98f00b204e9800998ecf8427e' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-13T17:01:36+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1428s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '15' LIMIT 1   [ RunTime:0.0243s ]
+
+[ 2018-08-13T17:01:40+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1500s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '15' LIMIT 1   [ RunTime:0.0188s ]
+
+[ 2018-08-13T17:01:41+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0409s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '15' LIMIT 1   [ RunTime:0.0246s ]
+
+[ 2018-08-13T17:01:41+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '15' LIMIT 1   [ RunTime:0.0257s ]
+
+[ 2018-08-13T17:01:42+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0593s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '15' LIMIT 1   [ RunTime:0.0421s ]
+
+[ 2018-08-13T17:01:43+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0404s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '15' LIMIT 1   [ RunTime:0.0160s ]
+
+[ 2018-08-13T17:01:44+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0164s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '15' LIMIT 1   [ RunTime:0.0042s ]
+
+[ 2018-08-13T17:02:20+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1022s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '15' LIMIT 1   [ RunTime:0.0349s ]
+
+[ 2018-08-13T17:03:10+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001654s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1151s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0269s ]
+
+[ 2018-08-13T17:04:53+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001980s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001812s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0879s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0425s ]
+
+[ 2018-08-13T17:04:55+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0916s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0202s ]
+
+[ 2018-08-13T17:04:56+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0192s ]
+
+[ 2018-08-13T17:05:00+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003347s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0879s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0201s ]
+
+[ 2018-08-13T17:05:21+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003128s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0588s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T17:05:22+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001784s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:05:23+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001386s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:05:23+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001593s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T17:05:25+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1251s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T17:05:25+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001907s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0226s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-08-13T17:05:26+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001644s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:05:40+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001908s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0475s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-08-13T17:05:52+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002468s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0690s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:07:11+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000175s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001884s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0474s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '2' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-08-13T17:07:26+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002783s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0487s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '5' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2018-08-13T17:07:54+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0476s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '12' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:07:59+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001639s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '12' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:08:05+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001480s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0492s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '44' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-13T17:08:11+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0481s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '2' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T17:08:21+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003221s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0491s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '2' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-08-13T17:08:48+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001299s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0479s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-08-13T17:09:29+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001918s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-08-13T17:09:41+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001811s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0603s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:10:06+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0586s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0158s ]
+
+[ 2018-08-13T17:11:15+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002492s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0437s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-13T17:11:41+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001210s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0476s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0108s ]
+
+[ 2018-08-13T17:11:43+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001707s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-13T17:12:02+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0476s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangg' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:12:07+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0280s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0121s ]
+
+[ 2018-08-13T17:12:40+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003144s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0478s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0032s ]
+
+[ 2018-08-13T17:13:37+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002170s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0808s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-13T17:14:28+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0496s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0083s ]
+
+[ 2018-08-13T17:16:17+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0685s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-13T17:21:58+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001639s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0586s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0145s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0124s ]
+
+[ 2018-08-13T17:22:11+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002597s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0366s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0144s ]
+
+[ 2018-08-13T17:22:14+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001448s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '5102659ae262e2c9969a84e65b01eb0a' LIMIT 1   [ RunTime:0.0040s ]
+
+[ 2018-08-13T17:22:21+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001576s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0378s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '5102659ae262e2c9969a84e65b01eb0a' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:22:26+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001834s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0379s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '5102659ae262e2c9969a84e65b01eb0a' LIMIT 1   [ RunTime:0.0054s ]
+
+[ 2018-08-13T17:22:34+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001891s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0489s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:23:06+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003587s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0489s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0098s ]
+
+[ 2018-08-13T17:24:01+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002374s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0492s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'd' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T17:24:53+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0609s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0163s ]
+
+[ 2018-08-13T17:25:21+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0559s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:25:46+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0600s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:25:59+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001571s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0589s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-13T17:26:33+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0813s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T17:26:52+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001427s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0702s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-13T17:26:54+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002538s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0041s ]
+
+[ 2018-08-13T17:27:08+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0700s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2018-08-13T17:27:19+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0700s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:28:25+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0702s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:28:59+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002740s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0500s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-13T17:29:01+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2018-08-13T17:29:04+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0528s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0223s ]
+
+[ 2018-08-13T17:29:06+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003212s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0243s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2018-08-13T17:29:11+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001583s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0255s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T17:29:15+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0988s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T17:29:17+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001941s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T17:29:23+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T17:29:25+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003680s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0556s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0021s ]
+
+[ 2018-08-13T17:30:45+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0605s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'assdf' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T17:30:49+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'bn' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-08-13T17:31:01+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0590s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'jhgj' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T18:38:08+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0703s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '2121' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-13T18:40:07+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0647s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '54' LIMIT 1   [ RunTime:0.0047s ]
+
+[ 2018-08-13T18:40:07+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002764s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '54' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2018-08-13T18:40:20+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0591s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1212' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T18:43:31+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0923s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '04524' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-08-13T18:43:34+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0811s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '04524' LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2018-08-13T18:49:39+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0551s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '4045' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-08-13T18:49:41+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001587s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '4045' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T18:50:12+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0441s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '4045' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T18:52:49+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0326s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '50454504' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-08-13T18:53:21+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0441s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '50454504' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T18:54:29+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0375s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '50454504' LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2018-08-13T18:54:42+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0353s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '50454504' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-08-13T18:56:04+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1039s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '50454504' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T18:59:05+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003005s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0365s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '50454504' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-08-13T18:59:48+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0376s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '50454504' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T19:03:04+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003753s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1258s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '50454504' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2018-08-13T19:03:27+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001696s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0482s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '50454504' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T19:03:30+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+NOTIC: [8] Undefined index: mode E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\UserController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0071s ]
+SQL: INSERT INTO `vues_user` (`username`,`phone`,`password`,`create_time`) VALUES ('50454504','18825360011','ca878e8f1d6834fb8286c0419d5ef6ec','1534158209') [ RunTime:0.7207s ]
+
+[ 2018-08-13T19:08:12+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0446s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '504545040' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-08-13T19:08:16+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+NOTIC: [8] Undefined index: mode E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\UserController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0489s ]
+SQL: INSERT INTO `vues_user` (`username`,`phone`,`password`,`create_time`) VALUES ('504545040','18825360011','ca878e8f1d6834fb8286c0419d5ef6ec','1534158496') [ RunTime:0.0931s ]
+
+[ 2018-08-13T19:08:21+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0595s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '504545040' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T19:09:01+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001742s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0596s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '504545040' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T19:09:03+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0185s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '5045450401' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T19:09:03+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '5045450401' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T19:09:05+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+NOTIC: [8] Undefined index: mode E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\UserController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0485s ]
+SQL: INSERT INTO `vues_user` (`username`,`phone`,`password`,`create_time`) VALUES ('5045450401','18825360011','ca878e8f1d6834fb8286c0419d5ef6ec','1534158545') [ RunTime:0.0993s ]
+
+[ 2018-08-13T19:10:05+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0594s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '504545040' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T19:10:35+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0593s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '5045450401' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T19:10:36+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0162s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '50454504000' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T19:10:38+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '5045450406546556' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T19:13:11+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0383s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '504545040' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T19:16:02+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0784s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '504545040554' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T19:16:03+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002291s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0489s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '504545040554' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-13T19:16:10+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+NOTIC: [8] Undefined index: mode E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\UserController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0212s ]
+SQL: INSERT INTO `vues_user` (`username`,`phone`,`password`,`create_time`) VALUES ('504545040554','18825360011','ca878e8f1d6834fb8286c0419d5ef6ec','1534158969') [ RunTime:0.0555s ]
+
+[ 2018-08-13T20:23:06+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001019s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0607s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '4224' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-08-13T20:23:08+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '4224' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-13T20:23:13+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+NOTIC: [8] Undefined index: mode E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\UserController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0503s ]
+SQL: INSERT INTO `vues_user` (`username`,`phone`,`password`,`create_time`) VALUES ('4224','18825360404','cb8c56836e3f7d0949a430cbbbe2650f','1534162993') [ RunTime:0.0471s ]
+

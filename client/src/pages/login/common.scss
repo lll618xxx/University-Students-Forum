@@ -1,0 +1,48 @@
+// common.scss
+.icon{
+  color: #D6ECE2;
+}
+.interval{
+  margin: 40px 0;
+}
+.loginForm .el-form-item__label{
+  color: #D6ECE2;
+}
+.loginForm .el-input__inner{
+  height: 36px;
+  background:transparent;
+  border-radius: 0;
+  border: 1px solid #d9d9ce;   
+  outline: none;
+  color: #FFFFFF;
+  letter-spacing: 1.3px;
+  border-radius: 6px;
+  line-height: 36px;
+}
+.loginForm .el-input__icon{
+  margin-left: 5px;
+}
+.loginForm .el-input--prefix .el-input__inner{
+  padding-left: 40px;
+}
+
+.register .el-form-item__label{
+  color: #D6ECE2;
+}
+.register .el-input__inner{
+  height: 36px;
+  background:transparent;
+  border-radius: 0;
+  border: 1px solid #d9d9ce;   
+  outline: none;
+  color: #FFFFFF;
+  letter-spacing: 1.3px;
+  border-radius: 6px;
+  line-height: 36px;
+}
+.register .el-input__icon{
+  margin-left: 5px;
+}
+.register .el-input--prefix .el-input__inner{
+  padding-left: 40px;
+}

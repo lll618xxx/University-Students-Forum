@@ -1,0 +1,72 @@
+[ 2018-07-31T20:44:43+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002628s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0310s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '124' LIMIT 1   [ RunTime:0.0128s ]
+
+[ 2018-07-31T20:44:44+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001054s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '124' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-07-31T20:44:45+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '124' LIMIT 1   [ RunTime:0.0537s ]
+
+[ 2018-07-31T20:44:49+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+NOTIC: [8] Undefined index: mode E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\UserController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0193s ]
+SQL: INSERT INTO `vues_user` (`username`,`phone`,`password`,`create_time`) VALUES ('124','18825360420','348de334ad32d4a7c23d674a61a55f2a','1533041089') [ RunTime:0.0901s ]
+
+[ 2018-07-31T20:49:48+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0707s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '404' LIMIT 1   [ RunTime:0.0101s ]
+
+[ 2018-07-31T20:49:49+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '404' LIMIT 1   [ RunTime:0.0116s ]
+
+[ 2018-07-31T20:49:52+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+NOTIC: [8] Undefined index: mode E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\UserController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0454s ]
+SQL: INSERT INTO `vues_user` (`username`,`phone`,`password`,`create_time`) VALUES ('404','18825342422','69a5464401c14eb579de980ca8538a6d','1533041392') [ RunTime:0.0720s ]
+

@@ -1,0 +1,150 @@
+[ 2018-08-01T21:54:25+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.013777s ]
+INFO: [ app_init ] --END-- [ RunTime:0.030350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004472s ]
+NOTIC: [8] Undefined index: mode E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\UserController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:1.3690s ]
+SQL: INSERT INTO `vues_user` (`username`,`phone`,`password`,`create_time`) VALUES ('','','d41d8cd98f00b204e9800998ecf8427e','1533131660') [ RunTime:0.5515s ]
+
+[ 2018-08-01T21:54:48+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1771s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '181818' LIMIT 1   [ RunTime:0.1687s ]
+
+[ 2018-08-01T21:54:50+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1754s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '181818' LIMIT 1   [ RunTime:0.0196s ]
+
+[ 2018-08-01T21:54:51+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1283s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '181818' LIMIT 1   [ RunTime:0.0080s ]
+
+[ 2018-08-01T21:55:39+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001988s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1063s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = '1882' LIMIT 1   [ RunTime:0.0334s ]
+
+[ 2018-08-01T21:55:46+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001704s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1362s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0302s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '4e732ced3463d06de0ca9a15b6153677' LIMIT 1   [ RunTime:0.0158s ]
+
+[ 2018-08-01T21:55:49+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002008s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1016s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0151s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '03c7c0ace395d80182db07ae2c30f034' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2018-08-01T21:55:57+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1017s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0257s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2018-08-01T21:56:02+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003242s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.3698s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.3299s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2018-08-01T21:56:04+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1171s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0272s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0350s ]
+
+[ 2018-08-01T21:56:04+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0819s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0312s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2018-08-01T21:56:05+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1146s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0208s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0160s ]
+
+[ 2018-08-01T21:56:06+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0453s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0076s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2018-08-01T21:56:06+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'xiangge' LIMIT 1   [ RunTime:0.0140s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 23 AND `password` = '72bc4535d7d68e836ee5773c2a32f2f6' LIMIT 1   [ RunTime:0.0011s ]
+

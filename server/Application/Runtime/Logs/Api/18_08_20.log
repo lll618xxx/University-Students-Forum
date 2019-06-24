@@ -1,0 +1,89 @@
+[ 2018-08-20T22:15:00+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000290s ]
+INFO: [ app_init ] --END-- [ RunTime:0.074356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.027428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027555s ]
+
+[ 2018-08-20T22:15:01+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002369s ]
+
+[ 2018-08-20T22:15:51+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.029705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.029760s ]
+
+[ 2018-08-20T22:16:10+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:4.3619s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'demo' LIMIT 1   [ RunTime:0.1628s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 72 AND `password` = 'fe01ce2a7fbac8fafaed7c982a04e229' LIMIT 1   [ RunTime:0.0244s ]
+
+[ 2018-08-20T22:16:34+08:00 ] 127.0.0.1 /Api/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001803s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0515s ]
+SQL: SELECT * FROM `vues_user` WHERE `username` = 'demo' LIMIT 1   [ RunTime:0.0310s ]
+SQL: SELECT * FROM `vues_user` WHERE `id` = 72 AND `password` = 'fe01ce2a7fbac8fafaed7c982a04e229' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-20T22:16:37+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+
+[ 2018-08-20T22:20:39+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+
+[ 2018-08-20T22:21:32+08:00 ] 127.0.0.1 /Api/User/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002273s ]
+
+[ 2018-08-20T22:21:32+08:00 ] 127.0.0.1 /Api/User/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002335s ]
+
+[ 2018-08-20T22:22:10+08:00 ] 127.0.0.1 /Api/User/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001573s ]
+

@@ -1,0 +1,24 @@
+[ 2018-03-22T00:26:42+08:00 ] 127.0.0.1 /mytext.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Mytext
+
+[ 2018-03-22T00:26:58+08:00 ] 127.0.0.1 /mytext.php/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Mytext.php
+
+[ 2018-03-22T00:27:12+08:00 ] 127.0.0.1 /mytext.php/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 无法加载模块:Mytext.php
+
+[ 2018-03-22T15:48:21+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.183758s ]
+ERR: 无法加载模块:Favicon
+

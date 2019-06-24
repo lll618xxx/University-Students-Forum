@@ -1,0 +1,39 @@
+.title{
+	color: #FFFFFF;
+	font-size: 60px;
+	text-align: center;
+	margin: 0px 0 40px 0;
+	padding-top: 60px;
+	letter-spacing: 12px;
+}
+
+.form{
+	width: 440px;
+	margin: 0 auto;
+	background:rgba(0, 0, 0, 0.55);
+	padding: 30px 40px 1px 20px;
+
+	.tab{
+		display: flex;
+		color: #FFFFFF;
+		font-size: 22px;
+		text-align: center;
+	
+		.tabpane{
+			width: 30%;
+			padding-bottom: 6px;
+			cursor:pointer;
+		}
+
+		.activeTab{
+			border-bottom: 2px solid #00BCD4;
+		}
+	}
+}
+
+.copyright{
+	text-align: center;
+	color: #FFFFFF;
+	margin: 50px 20px 30px 20px;
+	font-size: 7px;	
+}

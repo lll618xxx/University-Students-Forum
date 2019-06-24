@@ -1,0 +1,10 @@
+[ 2018-08-28T10:41:15+08:00 ] 127.0.0.1 /Api/Info/nickNameCheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.047398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.047473s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+ERR: 非法操作:nickNameCheck
+

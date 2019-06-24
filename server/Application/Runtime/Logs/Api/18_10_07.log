@@ -1,0 +1,12 @@
+[ 2018-10-07T18:57:54+08:00 ] 127.0.0.1 /Api/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005620s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007215s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007373s ]
+

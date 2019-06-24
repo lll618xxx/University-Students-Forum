@@ -1,0 +1,13 @@
+[ 2018-03-29T09:27:04+08:00 ] 127.0.0.1 /api/mess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.083220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.083331s ]
+SQL: SHOW COLUMNS FROM `mes_com` [ RunTime:0.0024s ]
+ERR: 1066:Not unique table/alias: 'mes_com'
+ [ SQL语句 ] : SELECT * FROM `mes_com` INNER JOIN mes_com ON mes_img.id = mes_com.id  
+ERR: 1066:Not unique table/alias: 'mes_com'
+ [ SQL语句 ] : SELECT * FROM `mes_com` INNER JOIN mes_com ON mes_img.id = mes_com.id  
+

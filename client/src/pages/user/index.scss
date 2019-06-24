@@ -1,0 +1,53 @@
+.el-aside {
+    background:url("../../images/user_page_bg.png");
+    background-size:200px 100%;
+    background-repeat:no-repeat; 
+  }
+
+  .userInfo{
+    display: flex;
+    flex-direction: column;
+    padding: 30px 0;
+
+    .headImg{
+      width: 70px;
+      height: 70px;
+      border-radius: 50%;
+       margin:0 auto;
+    }
+    .username{
+      color: #FBE72E;
+      text-align: center;
+      margin-top: 20px;
+      font-size: 22px;
+    }
+  }
+  .sideBar{
+    margin-top: -20px;
+
+    .barLink{
+      display: flex;
+      color: #FFFFFF;
+      height: 30px;
+      line-height: 30px;
+      margin: 15px auto;
+      padding: 10px 0 10px 40px;
+      font-size: 16px;
+      letter-spacing: 2px;
+      cursor: pointer;
+
+      .icon{
+        width: 30px;
+        height: 30px;
+        background-color: #3459FD;
+        margin-right: 12px;
+        font-size: 18px;
+        text-align: center;
+        line-height: 30px;
+        
+      }
+    }
+    .barLink:hover{
+      background-color:rgba(97, 156, 154, 0.68);
+    }
+  }

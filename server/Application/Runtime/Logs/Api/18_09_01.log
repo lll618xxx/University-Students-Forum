@@ -1,0 +1,365 @@
+[ 2018-09-01T21:56:36+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003474s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+
+[ 2018-09-01T21:57:03+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002879s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:8.3665s ]
+SQL: SELECT `username`,`email`,`phone`,`sex`,`school`,`profession`,`introduction`,`birthday`,`realname`,`portrait`,`nickname` FROM `vues_user` WHERE `id` = 75 LIMIT 1   [ RunTime:1.7630s ]
+
+[ 2018-09-01T21:57:03+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001591s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:8.3665s ]
+SQL: SELECT `username`,`email`,`phone`,`sex`,`school`,`profession`,`introduction`,`birthday`,`realname`,`portrait`,`nickname` FROM `vues_user` WHERE `id` = 75 LIMIT 1   [ RunTime:1.7774s ]
+
+[ 2018-09-01T21:57:04+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003603s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:8.3701s ]
+
+[ 2018-09-01T21:57:04+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001801s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:8.3666s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:2.7024s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T21:57:07+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002802s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.3264s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.0677s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T21:57:07+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001582s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.5496s ]
+SQL: SELECT `username`,`email`,`phone`,`sex`,`school`,`profession`,`introduction`,`birthday`,`realname`,`portrait`,`nickname` FROM `vues_user` WHERE `id` = 75 LIMIT 1   [ RunTime:0.1002s ]
+
+[ 2018-09-01T21:57:08+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001968s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.2541s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.2879s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T21:57:25+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001735s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1742s ]
+SQL: SELECT `username`,`email`,`phone`,`sex`,`school`,`profession`,`introduction`,`birthday`,`realname`,`portrait`,`nickname` FROM `vues_user` WHERE `id` = 75 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-09-01T21:57:26+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001686s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.1725s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.0557s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T21:57:48+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001696s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.1970s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.0015s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T21:57:48+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001835s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.2416s ]
+SQL: SELECT `username`,`email`,`phone`,`sex`,`school`,`profession`,`introduction`,`birthday`,`realname`,`portrait`,`nickname` FROM `vues_user` WHERE `id` = 75 LIMIT 1   [ RunTime:0.0151s ]
+
+[ 2018-09-01T21:58:21+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001864s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:1.0777s ]
+SQL: SELECT `username`,`email`,`phone`,`sex`,`school`,`profession`,`introduction`,`birthday`,`realname`,`portrait`,`nickname` FROM `vues_user` WHERE `id` = 75 LIMIT 1   [ RunTime:0.0998s ]
+
+[ 2018-09-01T21:58:22+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001718s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:1.3243s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.2379s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T22:03:00+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001713s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.1527s ]
+SQL: SELECT `username`,`email`,`phone`,`sex`,`school`,`profession`,`introduction`,`birthday`,`realname`,`portrait`,`nickname` FROM `vues_user` WHERE `id` = 75 LIMIT 1   [ RunTime:0.0155s ]
+
+[ 2018-09-01T22:03:00+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.2014s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.0313s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T22:04:25+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001604s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0602s ]
+SQL: SELECT `username`,`email`,`phone`,`sex`,`school`,`profession`,`introduction`,`birthday`,`realname`,`portrait`,`nickname` FROM `vues_user` WHERE `id` = 75 LIMIT 1   [ RunTime:0.0100s ]
+
+[ 2018-09-01T22:04:25+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001444s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.1655s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.1213s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T22:04:34+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001710s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0678s ]
+SQL: SELECT `username`,`email`,`phone`,`sex`,`school`,`profession`,`introduction`,`birthday`,`realname`,`portrait`,`nickname` FROM `vues_user` WHERE `id` = 75 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-09-01T22:04:34+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002167s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0450s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.0414s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T22:06:42+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001808s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+
+[ 2018-09-01T22:06:42+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001578s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0343s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.0431s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T22:06:42+08:00 ] 127.0.0.1 /Api/User/userInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001694s ]
+SQL: SHOW COLUMNS FROM `vues_user` [ RunTime:0.0629s ]
+SQL: SELECT `username`,`email`,`phone`,`sex`,`school`,`profession`,`introduction`,`birthday`,`realname`,`portrait`,`nickname` FROM `vues_user` WHERE `id` = 75 LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-09-01T22:07:00+08:00 ] 127.0.0.1 /Api/Info/getArticleList?cgid=1&field=time&sort=desc&p=1&limit=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001948s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0639s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 ORDER BY `time` desc LIMIT 0,20   [ RunTime:0.2363s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 LIMIT 1   [ RunTime:0.0768s ]
+
+[ 2018-09-01T22:07:00+08:00 ] 127.0.0.1 /Api/Info/getArticleList?cgid=1&field=time&sort=desc&p=1&limit=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002871s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.1150s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 ORDER BY `time` desc LIMIT 0,20   [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2018-09-01T22:07:04+08:00 ] 127.0.0.1 /Api/Info/getArticleList?cgid=1&field=time&sort=desc&p=2&limit=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 ORDER BY `time` desc LIMIT 20,20   [ RunTime:0.0417s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2018-09-01T22:07:04+08:00 ] 127.0.0.1 /Api/Info/getArticleList?cgid=1&field=time&sort=desc&p=2&limit=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 ORDER BY `time` desc LIMIT 20,20   [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2018-09-01T22:07:05+08:00 ] 127.0.0.1 /Api/Info/getArticleList?cgid=1&field=time&sort=desc&p=1&limit=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001054s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 ORDER BY `time` desc LIMIT 0,20   [ RunTime:0.0436s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2018-09-01T22:07:06+08:00 ] 127.0.0.1 /Api/Info/getArticleList?cgid=1&field=readnum&sort=desc&p=1&limit=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0517s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 ORDER BY `readnum` desc LIMIT 0,20   [ RunTime:0.0088s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2018-09-01T22:07:06+08:00 ] 127.0.0.1 /Api/Info/getArticleList?cgid=1&field=readnum&sort=desc&p=1&limit=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001729s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0314s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 ORDER BY `readnum` desc LIMIT 0,20   [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2018-09-01T22:07:12+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+NOTIC: [8] Undefined index: HTTP_AUTHOR E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\BaseController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0293s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T22:07:12+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0355s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.0268s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+
+[ 2018-09-01T22:07:13+08:00 ] 127.0.0.1 /Api/Info/getArticleList?cgid=1&field=time&sort=desc&p=1&limit=20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001638s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0422s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 ORDER BY `time` desc LIMIT 0,20   [ RunTime:0.0103s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `vues_article` WHERE `status` = 1 AND `cgid` = 1 LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2018-09-01T22:07:15+08:00 ] 127.0.0.1 /Api/Info/getArticleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `vues_article` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `vues_article` WHERE `status` = 1 ORDER BY readnum desc LIMIT 15   [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: other E:\PHP\AppServ\www\firstVue\server\Application\Api\Controller\InfoController.class.php 第 36 行.
+

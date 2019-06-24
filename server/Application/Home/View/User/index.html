@@ -1,0 +1,24 @@
+<!-- 引入模板 -->
+<include file="Public/header"/>
+	{//模板单行注释}
+	{/*模板多行注释*/}
+	<!-- 模板标签和$之间不能有空格，否则不能解析 -->
+	{$user}
+	<!-- [$user] -->
+	<br/>
+	<!-- 数组的两种输出方式 -->
+	{$arr['name']}
+	<br/>
+	<!-- 对象的两种输出方式哦 -->
+	{$obj->user}
+	<br/>
+	<!-- 使用PHP函数Md5加密 -->
+	{$obj->use|md5}
+	<br/>
+	{$date|date='Y-m-d H:i:s',###}
+	<br/>
+	{$arr['age']+getNum(222)}
+<include file="Public/footer"/>
+
+{$Think.get.id}
+

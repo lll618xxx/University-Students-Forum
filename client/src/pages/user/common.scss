@@ -1,0 +1,19 @@
+.container{
+	background-color: #FFFFFF;
+	padding: 20px 50px;
+	width: 90%;
+
+	.title{
+		font-size: 26px;
+		font-weight: 520;
+		letter-spacing: 2px;
+	}
+
+	.division{
+		width: 80%;
+        outline-style: inset;
+        outline-color: #FCFCFC;
+        outline-width: 1px;
+        margin: 15px 0;
+	}
+}

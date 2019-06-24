@@ -1,0 +1,12 @@
+[ 2018-02-14T12:56:43+08:00 ] 127.0.0.1 /mytext/home/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:Mytext
+
+[ 2018-02-14T12:57:12+08:00 ] 127.0.0.1 /mytext/home/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001137s ]
+ERR: 无法加载模块:Mytext
+

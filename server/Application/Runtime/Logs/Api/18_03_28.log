@@ -1,0 +1,111 @@
+[ 2018-03-28T10:45:32+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+
+[ 2018-03-28T10:45:34+08:00 ] 127.0.0.1 /api/mess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+
+[ 2018-03-28T10:50:48+08:00 ] 127.0.0.1 /api/mess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+
+[ 2018-03-28T10:51:12+08:00 ] 127.0.0.1 /api/mess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+SQL: SHOW COLUMNS FROM `mes_list` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `mes_list` WHERE ( id = 1 )  [ RunTime:0.0132s ]
+
+[ 2018-03-28T11:35:33+08:00 ] 127.0.0.1 /api/mess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+SQL: SHOW COLUMNS FROM `mes_list` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `mes_list` WHERE ( id = 1 )  [ RunTime:0.0004s ]
+
+[ 2018-03-28T11:35:37+08:00 ] 127.0.0.1 /api/mess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001905s ]
+SQL: SHOW COLUMNS FROM `mes_list` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `mes_list` WHERE ( id = 1 )  [ RunTime:0.0004s ]
+
+[ 2018-03-28T18:12:25+08:00 ] 127.0.0.1 /api/mess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.033661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.038251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038375s ]
+SQL: SHOW COLUMNS FROM `mes_list` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `mes_list` WHERE ( id = 1 )  [ RunTime:0.0010s ]
+
+[ 2018-03-28T18:21:02+08:00 ] 127.0.0.1 /api
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+
+[ 2018-03-28T18:21:08+08:00 ] 127.0.0.1 /api/mess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002803s ]
+SQL: SHOW COLUMNS FROM `mes_list` [ RunTime:0.0023s ]
+ERR: 1054:Unknown column 'mes_img.id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `mes_list` INNER JOIN mes_com ON mes_img.id = mes_com.id  
+ERR: 1054:Unknown column 'mes_img.id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `mes_list` INNER JOIN mes_com ON mes_img.id = mes_com.id  
+
+[ 2018-03-28T18:23:24+08:00 ] 127.0.0.1 /api/mess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003590s ]
+SQL: SHOW COLUMNS FROM `mes_com` [ RunTime:0.0019s ]
+ERR: 1066:Not unique table/alias: 'mes_com'
+ [ SQL语句 ] : SELECT * FROM `mes_com` INNER JOIN mes_com ON mes_img.id = mes_com.id  
+ERR: 1066:Not unique table/alias: 'mes_com'
+ [ SQL语句 ] : SELECT * FROM `mes_com` INNER JOIN mes_com ON mes_img.id = mes_com.id  
+
+[ 2018-03-28T18:23:25+08:00 ] 127.0.0.1 /api/mess
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001691s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003341s ]
+SQL: SHOW COLUMNS FROM `mes_com` [ RunTime:0.0015s ]
+ERR: 1066:Not unique table/alias: 'mes_com'
+ [ SQL语句 ] : SELECT * FROM `mes_com` INNER JOIN mes_com ON mes_img.id = mes_com.id  
+ERR: 1066:Not unique table/alias: 'mes_com'
+ [ SQL语句 ] : SELECT * FROM `mes_com` INNER JOIN mes_com ON mes_img.id = mes_com.id  
+

@@ -1,0 +1,174 @@
+[ 2018-02-09T12:19:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-02-09T12:19:52+08:00 ] 127.0.0.1 /ttt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+ERR: 无法加载模块:Ttt
+
+[ 2018-02-09T12:20:05+08:00 ] 127.0.0.1 /index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Index
+
+[ 2018-02-09T12:20:12+08:00 ] 127.0.0.1 /Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Index
+
+[ 2018-02-09T12:20:23+08:00 ] 127.0.0.1 /hmoe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+ERR: 无法加载模块:Hmoe
+
+[ 2018-02-09T12:23:17+08:00 ] 127.0.0.1 /Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 无法加载模块:Index
+
+[ 2018-02-09T12:29:27+08:00 ] 127.0.0.1 /index.php/common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载模块:Common
+
+[ 2018-02-09T12:32:45+08:00 ] 127.0.0.1 /index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+ERR: 无法加载模块:Admin
+
+[ 2018-02-09T12:34:09+08:00 ] 127.0.0.1 /index.php/COMMOR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:COMMOR
+
+[ 2018-02-09T12:34:56+08:00 ] 127.0.0.1 /index.php/common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003080s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-02-09T12:34:56+08:00 ] 127.0.0.1 /index.php/common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002488s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-02-09T12:52:17+08:00 ] 127.0.0.1 /admin.php/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Text
+
+[ 2018-02-09T12:52:34+08:00 ] 127.0.0.1 /admin.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Index
+
+[ 2018-02-09T12:58:39+08:00 ] 127.0.0.1 /admin.php/admin/Index/text/user/Lee/pass/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001574s ]
+ERR: 无法加载模块:Admin/Index/text/user/Lee/pass/123456
+
+[ 2018-02-09T12:59:01+08:00 ] 127.0.0.1 /admin.php/admin/Index/text/user=lee=pass=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+ERR: 无法加载模块:Admin/Index/text/user
+
+[ 2018-02-09T12:59:04+08:00 ] 127.0.0.1 /admin.php/admin/Index/text/user=lee=pass=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Admin/Index/text/user
+
+[ 2018-02-09T12:59:43+08:00 ] 127.0.0.1 /admin.php/admin/Index/text/user/123/pass/22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+ERR: 无法加载模块:Admin/Index/text/user/123/pass/22
+
+[ 2018-02-09T12:59:55+08:00 ] 127.0.0.1 /admin.php/admin/Index/text=user=123pass=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 无法加载模块:Admin/Index/text
+
+[ 2018-02-09T12:59:56+08:00 ] 127.0.0.1 /admin.php/admin/Index/text=user=123pass=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Admin/Index/text
+
+[ 2018-02-09T13:00:05+08:00 ] 127.0.0.1 /admin.php/admin/Index/text=user=123=pass=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Admin/Index/text
+
+[ 2018-02-09T13:00:43+08:00 ] 127.0.0.1 /admin.php/admin/Index=text=user=123=pass=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+ERR: 无法加载模块:Admin/Index
+
+[ 2018-02-09T13:01:12+08:00 ] 127.0.0.1 /admin.php/admin/Index=text=user=123=pass=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 无法加载模块:Admin/Index=text=user=123=pass=22
+
+[ 2018-02-09T13:01:13+08:00 ] 127.0.0.1 /admin.php/admin/Index=text=user=123=pass=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001396s ]
+ERR: 无法加载模块:Admin/Index=text=user=123=pass=22
+
+[ 2018-02-09T13:01:31+08:00 ] 127.0.0.1 /admin.php/admin/Index/text_user_123_pass_22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Admin/Index/text
+
+[ 2018-02-09T13:01:38+08:00 ] 127.0.0.1 /admin.php/admin/Index_text_user_123_pass_22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+ERR: 无法加载模块:Admin/Index
+
+[ 2018-02-09T13:04:36+08:00 ] 127.0.0.1 /admin.php/admin_Index_text_user_123_pass_22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001708s ]
+ERR: 无法加载模块:Admin_Index_text_user_123_pass_22
+
+[ 2018-02-09T13:04:52+08:00 ] 127.0.0.1 /admin.php/m=admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002608s ]
+ERR: 无法加载模块:M=admin
+
+[ 2018-02-09T13:05:05+08:00 ] 127.0.0.1 /admin.php/m=Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:M=Admin
+
