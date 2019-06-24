@@ -3,9 +3,13 @@
 > 采用vue2和thinkphp搭建的前后端分离项目
 
 <img src="client/src/images/p1.png" alt="项目截图">
+
 <img src="client/src/images/p2.png" alt="项目截图">
+
 <img src="client/src/images/p3.png" alt="项目截图">
+
 <img src="client/src/images/p4.png" alt="项目截图">
+
 <img src="client/src/images/p5.png" alt="项目截图">
 
 ## 项目说明
