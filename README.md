@@ -25,7 +25,8 @@
 前端：需要配置后端接口地址 client/src/http/PathConfig.js
 
 安装npm模块
-* npm install  
+* npm install
+
 运行项目  
 * npm run dev
 
