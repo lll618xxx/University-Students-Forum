@@ -25,8 +25,8 @@
 前端：需要配置后端接口地址 client/src/http/PathConfig.js
 
 安装npm模块
-* npm install
-运行项目
+* npm install  
+运行项目  
 * npm run dev
 
 后端：我自己采用的是Apache，将整个server目录放到服务器下，我采用的是虚拟域名指向配置API请求地址，至于数据库，可以将vues.sql导入到数据库中，就可以在本地将项目跑起来
