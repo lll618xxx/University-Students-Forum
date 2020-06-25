@@ -2,15 +2,15 @@
 
 > 采用vue2和thinkphp搭建的前后端分离项目
 
-<img src="client/src/images/p1.png" alt="项目截图">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbusls1m/e3d79aba-1998-42a6-9b74-1ec57db882ed_w1349_h453.png" alt="项目截图">
 
-<img src="client/src/images/p2.png" alt="项目截图">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbusly7q/60cda46a-1eb7-41cb-b42d-fe59e35b68e3_w1349_h529.png" alt="项目截图">
 
-<img src="client/src/images/p3.png" alt="项目截图">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbusm5f6/5e9c6581-26b9-49e2-8f81-a1796532c21d_w1349_h609.png" alt="项目截图">
 
-<img src="client/src/images/p4.png" alt="项目截图">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbusmc6r/de40b4a3-ebb2-4130-97b5-0c969fb7179d_w1348_h618.png" alt="项目截图">
 
-<img src="client/src/images/p5.png" alt="项目截图">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbusmi5d/490774a1-fda2-4595-91f2-b33b3d821637_w641_h817.png" alt="项目截图">
 
 ## 项目说明
 
